@@ -69,3 +69,4 @@ Version-Overrides:
 Install-Build-Required: false
 #Source-Url: git://github.com/yanywang/mysql22.git
 Source-Url: file:///root/mysql22/
+#source-Url: https://github.com/yanywang/mysql22.tar.gz
