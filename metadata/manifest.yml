@@ -67,5 +67,5 @@ Version-Overrides:
     - mysql
     - mysql-singleton-master
 Install-Build-Required: false
-Source-Url: git://github.com/yanywang/mysql22.git
-
+#Source-Url: git://github.com/yanywang/mysql22.git
+Source-Url: file:///root/mysql22/
